@@ -15,10 +15,8 @@
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - 💡 Occasionaly I do participate in **Hackathons**
 
-
 <br>
-<br>
-<h2> Find me on! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="left"> Find me on! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" ></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Medhunraj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-a-6973461a1/)](https://www.linkedin.com/in/medhun-r-0265921b3/)
 [![Instagram Badge](https://img.shields.io/badge/-@rajmedhun-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/rajmedhun/)
