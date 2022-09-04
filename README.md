@@ -14,6 +14,9 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - 💡 Occasionaly I do participate in **Hackathons**
+-
+-
+-
 
 <br>
 <h2 align="left"> Find me on! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" ></h2>
