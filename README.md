@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0FF73A&center=true&multiline=true&width=435&height=100&lines=Hello+there!;My+name+is+Medhunraj+;Welcome+to+my+Read+me" alt="Typing SVG" /></a>
 </h1>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Medhunraj)
+### Hi  👋
 - :school: I'm [Medhunraj](https://github.com/Medhunraj), have pursued B.Tech(CSE) from <a href="https://www.bitsathy.ac.in/">@BIT </a>
 - 🔭 I’m currently working on  **Font renderer visualizer**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
@@ -11,9 +11,6 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - 💡 Occasionaly I do participate in **Hackathons**
--
--
--
 
 <br>
 <h2 align="left"> Find me on! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" ></h2>
