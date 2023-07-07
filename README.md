@@ -2,9 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0FF73A&center=true&multiline=true&width=435&height=100&lines=Hello+there!;My+name+is+Medhunraj+;Welcome+to+my+Read+me" alt="Typing SVG" /></a>
 </h1>
 
-
-<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Assets/Monkey_Kid_Coding.gif' align='left' />
-
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Medhunraj)
 - :school: I'm [Medhunraj](https://github.com/Medhunraj), have pursued B.Tech(CSE) from <a href="https://www.bitsathy.ac.in/">@BIT </a>
 - 🔭 I’m currently working on  **Font renderer visualizer**
